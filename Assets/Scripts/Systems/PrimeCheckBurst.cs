@@ -4,6 +4,7 @@ using UnityEngine;
 using System.Diagnostics;
 
 // Disabling auto-creation so we can control it manually for the test.
+[UpdateInGroup(typeof(SimulationSystemGroup))]
 [DisableAutoCreation]
 public partial class PrimeCheckBurst : SystemBase
 {
