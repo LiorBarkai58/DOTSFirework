@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Liam\\Documents\\GitHub\\DOTSFirework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC82142-A163-DDA4-5421-DE3429E81CD6}|Assembly-CSharp.csproj|c:\\users\\liam\\documents\\github\\dotsfirework\\assets\\scripts\\primetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC82142-A163-DDA4-5421-DE3429E81CD6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\primetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC82142-A163-DDA4-5421-DE3429E81CD6}|Assembly-CSharp.csproj|c:\\users\\liam\\documents\\github\\dotsfirework\\assets\\scripts\\systems\\primecheckburst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC82142-A163-DDA4-5421-DE3429E81CD6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\primecheckburst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC82142-A163-DDA4-5421-DE3429E81CD6}|Assembly-CSharp.csproj|C:\\Users\\Liam\\Documents\\GitHub\\DOTSFirework\\assets\\scripts\\systems\\primechecksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC82142-A163-DDA4-5421-DE3429E81CD6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\primechecksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC82142-A163-DDA4-5421-DE3429E81CD6}|Assembly-CSharp.csproj|C:\\Users\\Liam\\Documents\\GitHub\\DOTSFirework\\assets\\scripts\\components\\primecomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC82142-A163-DDA4-5421-DE3429E81CD6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\components\\primecomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimeTest.cs",
+              "DocumentMoniker": "C:\\Users\\Liam\\Documents\\GitHub\\DOTSFirework\\Assets\\Scripts\\PrimeTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PrimeTest.cs",
+              "ToolTip": "C:\\Users\\Liam\\Documents\\GitHub\\DOTSFirework\\Assets\\Scripts\\PrimeTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PrimeTest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T22:11:03.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrimeCheckBurst.cs",
+              "DocumentMoniker": "C:\\Users\\Liam\\Documents\\GitHub\\DOTSFirework\\Assets\\Scripts\\Systems\\PrimeCheckBurst.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\PrimeCheckBurst.cs",
+              "ToolTip": "C:\\Users\\Liam\\Documents\\GitHub\\DOTSFirework\\Assets\\Scripts\\Systems\\PrimeCheckBurst.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\PrimeCheckBurst.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T22:09:18.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrimeCheckSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Liam\\Documents\\GitHub\\DOTSFirework\\Assets\\Scripts\\Systems\\PrimeCheckSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\PrimeCheckSystem.cs",
+              "ToolTip": "C:\\Users\\Liam\\Documents\\GitHub\\DOTSFirework\\Assets\\Scripts\\Systems\\PrimeCheckSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\PrimeCheckSystem.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T22:08:17.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrimeComponents.cs",
+              "DocumentMoniker": "C:\\Users\\Liam\\Documents\\GitHub\\DOTSFirework\\Assets\\Scripts\\Components\\PrimeComponents.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Components\\PrimeComponents.cs",
+              "ToolTip": "C:\\Users\\Liam\\Documents\\GitHub\\DOTSFirework\\Assets\\Scripts\\Components\\PrimeComponents.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Components\\PrimeComponents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T22:07:20.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
